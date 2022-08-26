@@ -1,4 +1,6 @@
-.page {
+@import url(../styles/normalize.css);
+
+.page{
   min-width: 1100px;
   max-width: 1600px;
   margin: 0;
