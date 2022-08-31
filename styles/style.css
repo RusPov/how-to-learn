@@ -373,7 +373,7 @@
 
 .footer__column-links {
   margin: 0 0 16px;
-
+  list-style: none;
   padding: 0;
 }
 
