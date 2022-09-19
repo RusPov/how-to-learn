@@ -1,9 +1,7 @@
-.video {
+.resources {
   margin: 0;
-  padding: 40px 0 0;
+  padding: 100px 0 217px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  position: relative;
-  top: 60px;
 }
